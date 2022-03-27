@@ -1,16 +1,14 @@
-# youtube_downloader
+# youtube downloader made with Flutter + GetX
 
-A new Flutter project.
+* createa a youtube api from https://console.cloud.google.com/apis/library/youtube.googleapis.com
+* 
+* make sure you change  your youtube API at env_config/youtube_config.dart
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+youtube preview : 
+[![IMAGE ALT TEXT HERE](./screen_shot.png)](https://www.youtube.com/watch?v=7oZUcVfPYls)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
